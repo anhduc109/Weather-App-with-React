@@ -1,4 +1,4 @@
-permalink: /index.html
+Check out the demo at: https://anhduc109.github.io/Weather-App-with-React/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
